@@ -1,9 +1,9 @@
 # TP02-PHP-CHADLI-ABDESSAMAD
 # TP 02 PHP — Programmation Web 2 — 2026/2027
 
-**Nom** : TonNom
-**Prénom** : TonPrénom
-**Groupe** : TonGroupe
+**Nom** : CHADLI
+**Prénom** : ABD ESSAMAD
+**Groupe** : GRP 2
 
 ## Liste des exercices
 - Exercice 1 : ex01.php
